@@ -1,7 +1,7 @@
 {
-    "name": "guitar-chord-jp-v22",
-    "version": "0.0.22",
-    "description": "BBC micro:bit V2 ギターコード拡張。Button1=P1, Button2=P2, Button3=P9; outputs P8/P14/P16.",
+    "name": "guitar-chord-v24",
+    "version": "0.0.24",
+    "description": "Guitar chord extension for BBC micro:bit V2. New block IDs; yellow speaker category icon. Button1=P1, Button2=P2, Button3=P9; outputs P8/P14/P16.",
     "dependencies": {
         "core": "*"
     },

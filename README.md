@@ -18,3 +18,8 @@ BBC micro:bit V2 専用 MakeCode 拡張機能です。
 
 ## v0.0.22
 TypeScript/C++/shim の namespace を `guitarchord` に統一。カテゴリ名は「ギターコード」。サムネイルなし。
+
+
+## v0.0.24
+- カテゴリアイコンをスピーカー (`\uf028`) に変更
+- 主要ブロックIDを v24 用の新しいIDに変更

@@ -111,7 +111,7 @@ namespace guitarchord {
     let playingAssignment = -1
 
     /** P8 / P14 / P16 の3出力で和音を鳴らします。 */
-    //% blockId=guitarchord_play_chord block="和音 %chord を鳴らす"
+    //% blockId=guitarchord_v24_play_chord block="和音 %chord を鳴らす"
     //% group="和音" weight=90
     //% chord.defl=Chord.C
     export function playChord(chord: Chord): void {
@@ -176,7 +176,7 @@ namespace guitarchord {
      * ボタン1=P1、ボタン2=P2、ボタン3=P9 として、
      * GNDとの間につないだスイッチを押している間だけ選んだ和音を鳴らします。
      */
-    //% blockId=guitarchord_assign_chord block="%button に和音 %chord を割り当てる"
+    //% blockId=guitarchord_v24_assign_chord block="%button に和音 %chord を割り当てる"
     //% group="スイッチ割り当て" weight=100
     //% button.defl=ChordButton.Button1
     //% chord.defl=Chord.C
